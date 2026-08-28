@@ -1,0 +1,33 @@
+# UTF-8
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 0, 0, 0),
+    prodvers=(1, 0, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo(
+      [
+        StringTable(
+          u'080404b0',
+          [
+            StringStruct(u'CompanyName', u'本地翻译工具'),
+            StringStruct(u'FileDescription', u'本地离线 AI 翻译工具（内置千问模型，支持在线大模型 API）'),
+            StringStruct(u'FileVersion', u'1.0.0.0'),
+            StringStruct(u'InternalName', u'FanYi'),
+            StringStruct(u'LegalCopyright', u'Copyright (C) 2026'),
+            StringStruct(u'OriginalFilename', u'翻译.exe'),
+            StringStruct(u'ProductName', u'翻译'),
+            StringStruct(u'ProductVersion', u'1.0.0.0')
+          ]
+        )
+      ]
+    ),
+    VarFileInfo([VarStruct(u'Translation', [2052, 1200])])
+  ]
+)
