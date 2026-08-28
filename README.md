@@ -56,9 +56,10 @@ python -m nuitka --standalone --enable-plugin=pyside6 --windows-console-mode=dis
 # 2. Inno Setup 制作安装程序（自选安装路径）
 ISCC.exe 翻译.iss
 ```
-
 ## 文件说明
 
+| 文件 | 说明 |
+| --- | --- |
 | translator_app.py | 主程序源码 |
 | 翻译.iss | Inno Setup 安装脚本 |
 | version_info.txt | EXE 版本信息资源 |
