@@ -63,6 +63,5 @@ ISCC.exe 翻译.iss
 | translator_app.py | 主程序源码 |
 | 翻译.iss | Inno Setup 安装脚本 |
 | version_info.txt | EXE 版本信息资源 |
-| app.ico | 程序图标 |
 | requirements.txt | Python 依赖清单 |
 
