@@ -59,15 +59,9 @@ ISCC.exe 翻译.iss
 
 ## 文件说明
 
-| 文件 | 说明 |
-| --- | --- |
 | translator_app.py | 主程序源码 |
 | 翻译.iss | Inno Setup 安装脚本 |
 | version_info.txt | EXE 版本信息资源 |
 | app.ico | 程序图标 |
 | requirements.txt | Python 依赖清单 |
 
-## 注意事项
-
-- `config.json`（运行时自动生成）包含你的 API Key 配置，**请勿上传到公开仓库**
-- `models` 文件夹存放本地模型，体积大，请勿上传
